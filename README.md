@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-https://github.com/mubashar856/SimBox-Traffic-Bypass-Telecom-Fraud-Detection
+https://github.com/mubashar856/Simbox-Traffic-ByPass-Detection
 
 ## Description
 
